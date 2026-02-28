@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋のHamburg♪",
+  "base_artist": "五十嵐響子 (CV: 種﨑敦美)",
+  "createdAt": "2026-02-28T16:25:29.185628Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のHamburg♪",
+      "artist": "五十嵐響子 (種﨑敦美)",
+      "has_synced": false,
+      "path": "select/pl_01_恋のHamburg♪_五十嵐響子_(種﨑敦美).txt"
+    }
+  ]
+}
